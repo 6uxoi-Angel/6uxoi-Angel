@@ -3,9 +3,9 @@
 ***
 # ***Contact*** ***details***
 **email** **->** **<neuzu02@gmail.com>**
-<br>⛓︎**Telegram** **->** **[@it_is_not_known](https://t.me/it_is_not_known)**
-<br>⛓︎**Vk** **->** **[it_is_not_known](https://vk.ru/it_is_not_known)**
-<br>⛓︎**Discord** **->** **[Discord](https://discord.com/users/1056531504378953821)**
+<br>**Telegram** **->** **[@it_is_not_known](https://t.me/it_is_not_known)**
+<br>**Vk** **->** **[it_is_not_known](https://vk.ru/it_is_not_known)**
+<br>**Discord** **->** **[Discord](https://discord.com/users/1056531504378953821)**
 ***
 
 # ***platform*** ***development***
