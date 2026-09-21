@@ -8,7 +8,7 @@
 <br>**Discord** **->** **[Discord](https://discord.com/users/1056531504378953821)**
 ***
 
-# ***platform*** ***development***
+# ***development*** ***platforms***
 **Modrinth** **->** **[Modrinth](https://modrinth.com/user/6uxoi_Angel)**
 <br>**GitHub** **->** **[GitHub](https://github.com/6uxoi-Angel)**
 
