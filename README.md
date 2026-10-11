@@ -14,7 +14,8 @@
 
 ***
 # ***my websites***
-**[Site Bio](https://6uxoi-angel.github.io/site-main/)**
+**[Site Bio old](https://6uxoi-angel.github.io/site-main/)**
+<br>**[Bio-6yxoi_Angel](https://6uxoi-angel.github.io/Bio-6yxoi_Angel/)**
 <br>**[Chess](https://6uxoi-angel.github.io/Chess/)**
 <br>**[Integra zapret gui](https://6uxoi-angel.github.io/Integra---zapret-gui/)**
 <br>**[Reg mod](https://6uxoi-angel.github.io/auto-reg/)**
