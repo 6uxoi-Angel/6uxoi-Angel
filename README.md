@@ -19,6 +19,8 @@
 <br>**[Chess](https://6uxoi-angel.github.io/Chess/)**
 <br>**[Integra zapret gui](https://6uxoi-angel.github.io/Integra---zapret-gui/)**
 <br>**[Reg mod](https://6uxoi-angel.github.io/auto-reg/)**
+<br>**[xaxa](https://6uxoi-angel.github.io/xaxa/)**
+<br>**[AnonNet-demo](https://6uxoi-angel.github.io/AnonNet-demo/)**
 ***
 
 # ***Skills***
